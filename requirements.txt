@@ -1,0 +1,13 @@
+streamlit
+langchain
+langchain-core
+langchain-community
+langchain-chroma
+langchain-groq
+langchain-huggingface
+langchain-text-splitters
+pypdf
+cryptography
+sentence-transformers
+python-dotenv
+requests
